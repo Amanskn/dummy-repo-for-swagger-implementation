@@ -5,7 +5,7 @@ const centralRouter = Router();
 
 /**
  * @swagger
- * /health:
+ * /health123aman:
  *   get:
  *     summary: Health Check
  *     description: Check if the API server is running
